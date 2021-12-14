@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+|779354|Alejandro Magallón Soler|[Report](https://github.com/alecron/lab6-microservices/blob/test/Report.md)      |             |       |
